@@ -89,12 +89,6 @@
       "email": "kevin23424@gmail.com",
       "password": "admin",
       "id": 15
-    },
-    {
-      "username": "Gurman",
-      "email": "gsingh07@outlook.in",
-      "password": "gur",
-      "id": 16
     }
   ],
   "tasks": [
